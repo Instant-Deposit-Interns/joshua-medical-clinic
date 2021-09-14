@@ -1,0 +1,54 @@
+.cmsmasters_slider {
+  height: 500px !important;
+  background-image: url("../wp-content/images/pexels-laura-james-6097766.jpg") !important;
+  background-size: cover !important;
+}
+
+.header_mid {
+  height: 100px !important;
+}
+
+.header_mid.header_mid_scroll {
+  background-color: #009396 !important;
+  /* background-color: #006600; */
+}
+
+html .cmsmasters_color_scheme_first ::-moz-selection {
+  background: #009396;
+  color: #ffffff;
+}
+
+html .cmsmasters_color_scheme_first ::selection {
+  background: #009396;
+  color: #ffffff;
+}
+
+html .cmsmasters_color_scheme_first ::-moz-selection {
+  background: #009396;
+  color: #ffffff;
+}
+
+html .cmsmasters_color_scheme_first #bottom ::-moz-selection {
+  background: #009396;
+  color: #ffffff;
+}
+
+html .cmsmasters_color_scheme_first #bottom ::selection {
+  background: #009396;
+  color: #ffffff;
+}
+
+html .cmsmasters_color_scheme_first #bottom ::-moz-selection {
+  background: #009396;
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 1024px) {
+  .header_top {
+    background-color: #009396 !important;
+  }
+  .header_mid {
+    background-color: #009396 !important;
+  }
+}
+/*# sourceMappingURL=custom-style.css.map */
