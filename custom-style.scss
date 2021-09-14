@@ -6,6 +6,10 @@ $primary-color: #009396;
   background-size: cover !important;
 }
 
+// .header_top {
+//   background-color: $primary-color !important;
+// }
+
 .header_mid {
   height: 100px !important;
 }
@@ -14,3 +18,5 @@ $primary-color: #009396;
   background-color: $primary-color !important;
   /* background-color: #006600; */
 }
+
+@import './media-queries';
