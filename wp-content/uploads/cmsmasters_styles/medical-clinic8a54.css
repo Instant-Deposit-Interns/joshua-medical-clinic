@@ -1285,7 +1285,7 @@ h6 a:hover,
 .widget_nav_menu ul li a:hover,
 .widget_tag_cloud a:hover,
 .widget_wysija .wysija-required {
-  color: #3065b5;
+  color: #009396;
 }
 
 #slide_top,
@@ -1342,7 +1342,7 @@ button:hover,
 .sticky:not(.has-post-thumbnail) .cmsmasters_post_cont:before,
 .cmsmasters_profile_vertical .cmsmasters_img_wrap a:after,
 .cmsmasters_profile_horizontal .cmsmasters_img_wrap a:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .cmsmasters_icon_list_items.cmsmasters_color_type_border
@@ -1375,7 +1375,7 @@ button:hover,
   .puzzle_post_img_wrap:hover
   + .puzzle_post_content_wrapper:after,
 .cmsmasters_table thead tr {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 .cmsmasters_quotes_slider .cmsmasters_quote_inner .cmsmasters_quote_icon,
@@ -1384,17 +1384,17 @@ button:hover,
 .cmsmasters_toggles .cmsmasters_toggle_wrap.current_toggle,
 body .cmsmasters_open_profile .profile_sidebar > div,
 body .cmsmasters_open_project .project_sidebar > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 
 .cmsmasters_tabs.tabs_mode_tour.tabs_pos_left
   .cmsmasters_tabs_list_item.current_tab {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 .cmsmasters_tabs.tabs_mode_tour.tabs_pos_right
   .cmsmasters_tabs_list_item.current_tab {
-  border-right-color: #3065b5;
+  border-right-color: #009396;
 }
 
 .post.cmsmasters_puzzle_type:nth-child(odd)
@@ -2097,22 +2097,22 @@ ul li:before,
 
 /* Start Custom Rules */
 ::selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
 ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
 #bottom ::selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
 #bottom ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
@@ -2123,27 +2123,27 @@ ul li:before,
 /***************** Start Default Button Color Scheme Rules ******************/
 
 .cmsmasters_button.cmsmasters_but_bg_hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_bg_hover:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
 .cmsmasters_button.cmsmasters_but_bd_underline {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_bd_underline:hover {
   border-color: #ffffff;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_bg_slide_left,
@@ -2153,9 +2153,9 @@ ul li:before,
 .cmsmasters_button.cmsmasters_but_bg_expand_vert,
 .cmsmasters_button.cmsmasters_but_bg_expand_hor,
 .cmsmasters_button.cmsmasters_but_bg_expand_diag {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_bg_slide_left:hover,
@@ -2165,7 +2165,7 @@ ul li:before,
 .cmsmasters_button.cmsmasters_but_bg_expand_vert:hover,
 .cmsmasters_button.cm.sms_but_bg_expand_hor:hover,
 .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
   color: #ffffff;
 }
@@ -2177,30 +2177,30 @@ ul li:before,
 .cmsmasters_button.cmsmasters_but_bg_expand_vert:after,
 .cmsmasters_button.cmsmasters_but_bg_expand_hor:after,
 .cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_shadow {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
 .cmsmasters_button.cmsmasters_but_shadow:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_dark_bg,
 .cmsmasters_button.cmsmasters_but_icon_light_bg,
 .cmsmasters_button.cmsmasters_but_icon_divider {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_dark_bg:hover,
 .cmsmasters_button.cmsmasters_but_icon_light_bg:hover,
 .cmsmasters_button.cmsmasters_but_icon_divider:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -2209,13 +2209,13 @@ ul li:before,
 }
 
 .cmsmasters_button.cmsmasters_but_icon_inverse {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_inverse:before {
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_inverse:after {
@@ -2223,9 +2223,9 @@ ul li:before,
 }
 
 .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
@@ -2233,20 +2233,20 @@ ul li:before,
 }
 
 .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_slide_left,
 .cmsmasters_button.cmsmasters_but_icon_slide_right {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_button.cmsmasters_but_icon_slide_left:hover,
 .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -2254,8 +2254,8 @@ ul li:before,
 .cmsmasters_button.cmsmasters_but_icon_hover_slide_right,
 .cmsmasters_button.cmsmasters_but_icon_hover_slide_top,
 .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -2263,8 +2263,8 @@ ul li:before,
 .cmsmasters_button.cmsmasters_but_icon_hover_slide_right:hover,
 .cmsmasters_button.cmsmasters_but_icon_hover_slide_top:hover,
 .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -5071,7 +5071,7 @@ html .cmsmasters_color_scheme_first .widget_nav_menu ul li.current-menu-item a,
 html .cmsmasters_color_scheme_first .widget_nav_menu ul li a:hover,
 html .cmsmasters_color_scheme_first .widget_tag_cloud a:hover,
 html .cmsmasters_color_scheme_first .widget_wysija .wysija-required {
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_color_scheme_first mark,
@@ -5192,7 +5192,7 @@ html
   .cmsmasters_profile_horizontal
   .cmsmasters_img_wrap
   a:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -5249,7 +5249,7 @@ html
   .puzzle_post_img_wrap:hover
   + .puzzle_post_content_wrapper:after,
 html .cmsmasters_color_scheme_first .cmsmasters_table thead tr {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 html
@@ -5282,21 +5282,21 @@ html
   .cmsmasters_open_project
   .project_sidebar
   > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_tabs.tabs_mode_tour.tabs_pos_left
   .cmsmasters_tabs_list_item.current_tab {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_tabs.tabs_mode_tour.tabs_pos_right
   .cmsmasters_tabs_list_item.current_tab {
-  border-right-color: #3065b5;
+  border-right-color: #009396;
 }
 
 html
@@ -6781,22 +6781,22 @@ html .cmsmasters_color_scheme_first .cmsmasters_notice .notice_close:hover {
 
 /* Start Custom Rules */
 html .cmsmasters_color_scheme_first ::selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
 html .cmsmasters_color_scheme_first ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
 html .cmsmasters_color_scheme_first #bottom ::selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
 html .cmsmasters_color_scheme_first #bottom ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: #ffffff;
 }
 
@@ -6825,25 +6825,25 @@ html .cmsmasters_color_scheme_first #bottom ::-moz-selection {
 /***************** Start Custom 1 Button Color Scheme Rules ******************/
 
 html .cmsmasters_color_scheme_first .cmsmasters_button.cmsmasters_but_bg_hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_bg_hover:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_bd_underline {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -6851,7 +6851,7 @@ html
   .cmsmasters_button.cmsmasters_but_bd_underline:hover {
   border-color: #ffffff;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -6875,9 +6875,9 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_bg_expand_diag {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -6901,7 +6901,7 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
   color: #ffffff;
 }
@@ -6927,18 +6927,18 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html .cmsmasters_color_scheme_first .cmsmasters_button.cmsmasters_but_shadow {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_shadow:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -6951,7 +6951,7 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_divider {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -6964,7 +6964,7 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_divider:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -6977,15 +6977,15 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_inverse {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_inverse:before {
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -6997,9 +6997,9 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -7011,7 +7011,7 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -7020,9 +7020,9 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_slide_right {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #ffffff;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -7031,8 +7031,8 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -7048,8 +7048,8 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -7065,8 +7065,8 @@ html
 html
   .cmsmasters_color_scheme_first
   .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #ffffff;
 }
 
@@ -7459,7 +7459,7 @@ html .cmsmasters_color_scheme_second .widget_nav_menu ul li.current-menu-item a,
 html .cmsmasters_color_scheme_second .widget_nav_menu ul li a:hover,
 html .cmsmasters_color_scheme_second .widget_tag_cloud a:hover,
 html .cmsmasters_color_scheme_second .widget_wysija .wysija-required {
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_color_scheme_second mark,
@@ -7580,7 +7580,7 @@ html
   .cmsmasters_profile_horizontal
   .cmsmasters_img_wrap
   a:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -7637,7 +7637,7 @@ html
   .puzzle_post_img_wrap:hover
   + .puzzle_post_content_wrapper:after,
 html .cmsmasters_color_scheme_second .cmsmasters_table thead tr {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 html
@@ -7670,21 +7670,21 @@ html
   .cmsmasters_open_project
   .project_sidebar
   > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_tabs.tabs_mode_tour.tabs_pos_left
   .cmsmasters_tabs_list_item.current_tab {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_tabs.tabs_mode_tour.tabs_pos_right
   .cmsmasters_tabs_list_item.current_tab {
-  border-right-color: #3065b5;
+  border-right-color: #009396;
 }
 
 html
@@ -9190,22 +9190,22 @@ html .cmsmasters_color_scheme_second .cmsmasters_notice .notice_close:hover {
 
 /* Start Custom Rules */
 html .cmsmasters_color_scheme_second ::selection {
-  background: #3065b5;
+  background: #009396;
   color: #fcfcfc;
 }
 
 html .cmsmasters_color_scheme_second ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: #fcfcfc;
 }
 
 html .cmsmasters_color_scheme_second #bottom ::selection {
-  background: #3065b5;
+  background: #009396;
   color: #fcfcfc;
 }
 
 html .cmsmasters_color_scheme_second #bottom ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: #fcfcfc;
 }
 
@@ -9236,25 +9236,25 @@ html .cmsmasters_color_scheme_second #bottom ::-moz-selection {
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_bg_hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #fcfcfc;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_bg_hover:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_bd_underline {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #fcfcfc;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -9262,7 +9262,7 @@ html
   .cmsmasters_button.cmsmasters_but_bd_underline:hover {
   border-color: #fcfcfc;
   background-color: #fcfcfc;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -9286,9 +9286,9 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_bg_expand_diag {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #fcfcfc;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -9312,7 +9312,7 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #fcfcfc;
   color: #fcfcfc;
 }
@@ -9338,18 +9338,18 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html .cmsmasters_color_scheme_second .cmsmasters_button.cmsmasters_but_shadow {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_shadow:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
@@ -9362,7 +9362,7 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_divider {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
@@ -9375,7 +9375,7 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_divider:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
@@ -9388,15 +9388,15 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_inverse {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_inverse:before {
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -9408,9 +9408,9 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #fcfcfc;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -9422,7 +9422,7 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -9431,9 +9431,9 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_slide_right {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: #fcfcfc;
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -9442,8 +9442,8 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
@@ -9459,8 +9459,8 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
@@ -9476,8 +9476,8 @@ html
 html
   .cmsmasters_color_scheme_second
   .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: #fcfcfc;
 }
 
@@ -9867,7 +9867,7 @@ html .cmsmasters_color_scheme_third .widget_nav_menu ul li.current-menu-item a,
 html .cmsmasters_color_scheme_third .widget_nav_menu ul li a:hover,
 html .cmsmasters_color_scheme_third .widget_tag_cloud a:hover,
 html .cmsmasters_color_scheme_third .widget_wysija .wysija-required {
-  color: #3065b5;
+  color: #009396;
 }
 
 .cmsmasters_color_scheme_third mark,
@@ -9988,7 +9988,7 @@ html
   .cmsmasters_profile_horizontal
   .cmsmasters_img_wrap
   a:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -10045,7 +10045,7 @@ html
   .puzzle_post_img_wrap:hover
   + .puzzle_post_content_wrapper:after,
 html .cmsmasters_color_scheme_third .cmsmasters_table thead tr {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 html
@@ -10078,21 +10078,21 @@ html
   .cmsmasters_open_project
   .project_sidebar
   > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_tabs.tabs_mode_tour.tabs_pos_left
   .cmsmasters_tabs_list_item.current_tab {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_tabs.tabs_mode_tour.tabs_pos_right
   .cmsmasters_tabs_list_item.current_tab {
-  border-right-color: #3065b5;
+  border-right-color: #009396;
 }
 
 html
@@ -11577,22 +11577,22 @@ html .cmsmasters_color_scheme_third .cmsmasters_notice .notice_close:hover {
 
 /* Start Custom Rules */
 html .cmsmasters_color_scheme_third ::selection {
-  background: #3065b5;
+  background: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
 html .cmsmasters_color_scheme_third ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
 html .cmsmasters_color_scheme_third #bottom ::selection {
-  background: #3065b5;
+  background: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
 html .cmsmasters_color_scheme_third #bottom ::-moz-selection {
-  background: #3065b5;
+  background: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -11637,25 +11637,25 @@ html .cmsmasters_color_scheme_third #bottom ::-moz-selection {
 /***************** Start Custom 3 Button Color Scheme Rules ******************/
 
 html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_bg_hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: rgba(255, 255, 255, 0.1);
-  color: #3065b5;
+  color: #009396;
 }
 
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_bg_hover:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_bd_underline {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: rgba(255, 255, 255, 0.1);
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -11663,7 +11663,7 @@ html
   .cmsmasters_button.cmsmasters_but_bd_underline:hover {
   border-color: rgba(255, 255, 255, 0.1);
   background-color: rgba(255, 255, 255, 0.1);
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -11687,9 +11687,9 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_bg_expand_diag {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: rgba(255, 255, 255, 0.1);
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -11713,7 +11713,7 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: rgba(255, 255, 255, 0.1);
   color: rgba(255, 255, 255, 0.1);
 }
@@ -11739,18 +11739,18 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html .cmsmasters_color_scheme_third .cmsmasters_button.cmsmasters_but_shadow {
-  background-color: #3065b5;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_shadow:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -11763,7 +11763,7 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_divider {
-  background-color: #3065b5;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -11776,7 +11776,7 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_divider:hover {
-  background-color: #3065b5;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -11789,15 +11789,15 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_inverse {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_inverse:before {
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -11809,9 +11809,9 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: rgba(255, 255, 255, 0.1);
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -11823,7 +11823,7 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -11832,9 +11832,9 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_slide_right {
-  border-color: #3065b5;
+  border-color: #009396;
   background-color: rgba(255, 255, 255, 0.1);
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -11843,8 +11843,8 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -11860,8 +11860,8 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -11877,8 +11877,8 @@ html
 html
   .cmsmasters_color_scheme_third
   .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
-  border-color: #3065b5;
-  background-color: #3065b5;
+  border-color: #009396;
+  background-color: #009396;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -12274,17 +12274,17 @@ ul.navigation .menu-item-mega-container {
 .navigation li > a:hover .nav_subtitle,
 .navigation li.current-menu-item > a .nav_subtitle,
 .navigation li.current-menu-ancestor > a .nav_subtitle {
-  color: #3065b5;
+  color: #009396;
 }
 
 ul.navigation li > ul li:hover > a,
 ul.navigation li > ul li:hover > a .nav_subtitle {
-  color: #3065b5;
+  color: #009396;
 }
 
 @media only screen and (max-width: 1024px) {
   .navigation li a .nav_tag {
-    color: #3065b5;
+    color: #009396;
   }
 
   ul.navigation li:hover > a {
@@ -12442,7 +12442,7 @@ ul.top_line_nav ul {
 
 /* Start Header Top Navigation Dropdown Link Hover Color */
 .top_line_nav li > a:hover {
-  color: #3065b5;
+  color: #009396;
 }
 /* Finish Header Top Navigation Dropdown Link Hover Color */
 
@@ -12497,7 +12497,7 @@ ul.top_line_nav ul li.current-menu-ancestor > a {
   .editor-styles-wrapper
   .editor-post-title__block
   .editor-post-title__input {
-  color: #3065b5;
+  color: #009396;
 }
 
 .editor-styles-wrapper .wp-block-freeform .button,
@@ -12513,7 +12513,7 @@ ul.top_line_nav ul li.current-menu-ancestor > a {
 .editor-styles-wrapper .wp-block-freeform .button:hover,
 .editor-styles-wrapper .wp-block-freeform input[type='submit']:hover,
 .editor-styles-wrapper .wp-block-calendar thead th {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .editor-styles-wrapper .wp-block-freeform .button,
@@ -12523,7 +12523,7 @@ ul.top_line_nav ul li.current-menu-ancestor > a {
 
 .editor-styles-wrapper .wp-block-freeform .button:hover,
 .editor-styles-wrapper .wp-block-freeform input[type='submit']:hover {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 .editor-styles-wrapper
@@ -12549,7 +12549,7 @@ ul.wp-block li:before {
 /* Finish Table Colors */
 
 .editor-styles-wrapper .wp-block-file {
-  color: #3065b5;
+  color: #009396;
 }
 
 /***************** Finish Gutenberg Module Custom Colors Scheme Rules ******************/
@@ -12577,7 +12577,7 @@ body .editor-styles-wrapper,
   .wp-block-file
   .wp-block-file__textlink
   .editor-rich-text__tinymce {
-  color: #3065b5;
+  color: #009396;
 }
 /* Finish Primary Color */
 
@@ -12685,7 +12685,7 @@ body .editor-styles-wrapper,
 .wp-block-file .wp-block-file__button,
 .wp-block-file a.wp-block-file__button {
   color: #ffffff;
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .wp-block-button
@@ -12706,9 +12706,9 @@ body .editor-styles-wrapper,
 
 .wp-block-button.is-style-outline
   .wp-block-button__link:not(.has-text-color):not(.has-background) {
-  color: #3065b5;
+  color: #009396;
   background-color: #ffffff;
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 .wp-block-button.is-style-outline
@@ -12718,8 +12718,8 @@ body .editor-styles-wrapper,
 .wp-block-button.is-style-outline
   .wp-block-button__link:not(.has-text-color):not(.has-background):active {
   color: #ffffff;
-  background-color: #3065b5;
-  border-color: #3065b5;
+  background-color: #009396;
+  border-color: #009396;
 }
 /* Finish Buttons Colors */
 
@@ -12779,7 +12779,7 @@ body .editor-styles-wrapper,
 #page .shipping-calculator-button:hover,
 .cmsmasters_single_product .product_meta a:hover,
 .widget_product_tag_cloud a:hover {
-  color: #3065b5;
+  color: #009396;
 }
 
 .input-checkbox + label:after,
@@ -12794,7 +12794,7 @@ ul.order_details li,
 .woocommerce-MyAccount-navigation li > a:hover,
 .woocommerce-MyAccount-navigation li.is-active > a,
 .widget_price_filter .ui-slider-range {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .select2-container.select2-container-active .select2-choice,
@@ -12808,7 +12808,7 @@ ul.order_details li,
 .woocommerce-MyAccount-navigation li.is-active > a,
 .cart_totals table .order-total th,
 .cart_totals table .order-total td {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -13681,7 +13681,7 @@ html
   .product_meta
   a:hover,
 html .cmsmasters_color_scheme_first .widget_product_tag_cloud a:hover {
-  color: #3065b5;
+  color: #009396;
 }
 
 html .cmsmasters_color_scheme_first .input-checkbox + label:after,
@@ -13708,7 +13708,7 @@ html
   li.is-active
   > a,
 html .cmsmasters_color_scheme_first .widget_price_filter .ui-slider-range {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -13748,7 +13748,7 @@ html
   > a,
 html .cmsmasters_color_scheme_first .cart_totals table .order-total th,
 html .cmsmasters_color_scheme_first .cart_totals table .order-total td {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -14233,7 +14233,7 @@ html
   .product_meta
   a:hover,
 html .cmsmasters_color_scheme_second .widget_product_tag_cloud a:hover {
-  color: #3065b5;
+  color: #009396;
 }
 
 html .cmsmasters_color_scheme_second .input-checkbox + label:after,
@@ -14260,7 +14260,7 @@ html
   li.is-active
   > a,
 html .cmsmasters_color_scheme_second .widget_price_filter .ui-slider-range {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -14300,7 +14300,7 @@ html
   > a,
 html .cmsmasters_color_scheme_second .cart_totals table .order-total th,
 html .cmsmasters_color_scheme_second .cart_totals table .order-total td {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -14780,7 +14780,7 @@ html
   .product_meta
   a:hover,
 html .cmsmasters_color_scheme_third .widget_product_tag_cloud a:hover {
-  color: #3065b5;
+  color: #009396;
 }
 
 html .cmsmasters_color_scheme_third .input-checkbox + label:after,
@@ -14807,7 +14807,7 @@ html
   li.is-active
   > a,
 html .cmsmasters_color_scheme_third .widget_price_filter .ui-slider-range {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -14847,7 +14847,7 @@ html
   > a,
 html .cmsmasters_color_scheme_third .cart_totals table .order-total th,
 html .cmsmasters_color_scheme_third .cart_totals table .order-total td {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -15213,27 +15213,27 @@ ul.tt_upcoming_events li .tt_upcoming_events_event_container * {
 /* Start Primary Color */
 .cmsmasters_tt_event #event_hours_list > li > h4:nth-child(2),
 .second_color {
-  color: #3065b5;
+  color: #009396;
 }
 
 .tt_upcoming_events_wrapper .tt_upcoming_event_controls > a:hover,
 ul.tt_upcoming_events li .tt_upcoming_events_event_container:hover,
 .tt_booking a.tt_btn {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 .tt_upcoming_events_wrapper .tt_upcoming_event_controls > a:hover,
 ul.tt_upcoming_events li .tt_upcoming_events_event_container:hover {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 ul.tt_upcoming_events li a.tt_upcoming_events_event_container {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 body .cmsmasters_tt_event #event_hours_list > li,
 body .cmsmasters_tt_event .cmsmasters_tt_event_sidebar > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -15550,7 +15550,7 @@ html
   > li
   > h4:nth-child(2),
 html .cmsmasters_color_scheme_first .second_color {
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -15564,7 +15564,7 @@ html
   li
   .tt_upcoming_events_event_container:hover,
 html .cmsmasters_color_scheme_first .tt_booking a.tt_btn {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -15577,7 +15577,7 @@ html
   ul.tt_upcoming_events
   li
   .tt_upcoming_events_event_container:hover {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 html
@@ -15585,7 +15585,7 @@ html
   ul.tt_upcoming_events
   li
   a.tt_upcoming_events_event_container {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 html
@@ -15600,7 +15600,7 @@ html
   .cmsmasters_tt_event
   .cmsmasters_tt_event_sidebar
   > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -15760,7 +15760,7 @@ html
   > li
   > h4:nth-child(2),
 html .cmsmasters_color_scheme_second .second_color {
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -15774,7 +15774,7 @@ html
   li
   .tt_upcoming_events_event_container:hover,
 html .cmsmasters_color_scheme_second .tt_booking a.tt_btn {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -15787,7 +15787,7 @@ html
   ul.tt_upcoming_events
   li
   .tt_upcoming_events_event_container:hover {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 html
@@ -15795,7 +15795,7 @@ html
   ul.tt_upcoming_events
   li
   a.tt_upcoming_events_event_container {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 html
@@ -15810,7 +15810,7 @@ html
   .cmsmasters_tt_event
   .cmsmasters_tt_event_sidebar
   > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 /* Finish Primary Color */
 
@@ -15978,7 +15978,7 @@ html
   > li
   > h4:nth-child(2),
 html .cmsmasters_color_scheme_third .second_color {
-  color: #3065b5;
+  color: #009396;
 }
 
 html
@@ -15992,7 +15992,7 @@ html
   li
   .tt_upcoming_events_event_container:hover,
 html .cmsmasters_color_scheme_third .tt_booking a.tt_btn {
-  background-color: #3065b5;
+  background-color: #009396;
 }
 
 html
@@ -16005,7 +16005,7 @@ html
   ul.tt_upcoming_events
   li
   .tt_upcoming_events_event_container:hover {
-  border-color: #3065b5;
+  border-color: #009396;
 }
 
 html
@@ -16013,7 +16013,7 @@ html
   ul.tt_upcoming_events
   li
   a.tt_upcoming_events_event_container {
-  border-left-color: #3065b5;
+  border-left-color: #009396;
 }
 
 html
@@ -16028,7 +16028,7 @@ html
   .cmsmasters_tt_event
   .cmsmasters_tt_event_sidebar
   > div {
-  border-top-color: #3065b5;
+  border-top-color: #009396;
 }
 /* Finish Primary Color */
 
