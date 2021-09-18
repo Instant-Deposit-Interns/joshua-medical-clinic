@@ -20,4 +20,28 @@ $primary-color: #009396;
   /* background-color: #006600; */
 }
 
+html {
+  & .cmsmasters_color_scheme_first ::selection {
+    background: $primary-color;
+    color: #ffffff;
+  }
+  
+  & .cmsmasters_color_scheme_first ::-moz-selection {
+    background: $primary-color;
+    color: #ffffff;
+  }
+  
+  & .cmsmasters_color_scheme_first #bottom ::selection {
+    background: $primary-color;
+    color: #ffffff;
+  }
+  
+  & .cmsmasters_color_scheme_first #bottom ::-moz-selection {
+    background: $primary-color;
+    color: #ffffff;
+  }
+  
+}
+
 @import './media-queries';
+
